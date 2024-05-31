@@ -1,0 +1,14 @@
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\bin\Debug\net8.0-windows\ClientApp.exe
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\bin\Debug\net8.0-windows\ClientApp.deps.json
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\bin\Debug\net8.0-windows\ClientApp.runtimeconfig.json
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\bin\Debug\net8.0-windows\ClientApp.dll
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\bin\Debug\net8.0-windows\ClientApp.pdb
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ClientApp.AssemblyInfoInputs.cache
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ClientApp.AssemblyInfo.cs
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ClientApp.dll
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\refint\ClientApp.dll
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ClientApp.pdb
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ClientApp.genruntimeconfig.cache
+C:\Users\Alenm\Desktop\Sistribuidos\pizarra\ClientApp\obj\Debug\net8.0-windows\ref\ClientApp.dll
