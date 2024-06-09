@@ -6,12 +6,7 @@ Este proyecto demuestra una pizarra distribuida utilizando sockets en C#. Incluy
 
 ### Instrucciones
 
-1. Clona el repositorio en tu máquina local.
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd <NOMBRE_DEL_REPOSITORIO>
-    ```
-
+1. Descargar el repositorio en tu máquina local.
 2. Inicia la aplicación del servidor. Abre una terminal y navega hasta el directorio `serverApp`, luego ejecuta el siguiente comando:
     ```bash
     dotnet run
