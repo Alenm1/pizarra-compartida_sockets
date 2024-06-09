@@ -5,12 +5,12 @@ Este proyecto demuestra una pizarra distribuida utilizando sockets en C#. Incluy
 ### Instrucciones
 
 1. Descargar el repositorio en tu máquina local.
-2. Inicia la aplicación del servidor. Abre una terminal y navega hasta el directorio `serverApp`, luego ejecuta el siguiente comando:
+2. Inicia la aplicación del servidor. Abre una terminal y navega hasta el directorio `serverApp`, luego ejecuta el comando:
     ```bash
     dotnet run
     ```
 
-3. Inicia la aplicación del cliente en otros dispositivos. Abre una terminal en cada dispositivo cliente, navega hasta el directorio `clientApp` y ejecuta el siguiente comando:
+3. Inicia la aplicación del cliente en otros dispositivos. Abre una terminal en cada dispositivo cliente, navega hasta el directorio `clientApp` y ejecuta el comando:
     ```bash
     dotnet run
     ```
