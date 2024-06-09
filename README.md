@@ -1,10 +1,10 @@
 # Pizarra Distribuida
 
-Este proyecto demuestra una pizarra distribuida utilizando sockets en C#. Incluye una aplicación de servidor y una aplicación de cliente que pueden ejecutarse en diferentes dispositivos.
+Este proyecto demuestra una pizarra distribuida utilizando sockets en C#. Incluye el servidor y cliente que pueden ejecutarse en diferentes dispositivos.
 
 ### Instrucciones
 
-1. Descargar el repositorio en tu máquina local.
+1. Descargar el repositorio en tus dispositivos.
 2. Inicia la aplicación del servidor. Abre una terminal y navega hasta el directorio `serverApp`, luego ejecuta el comando:
     ```bash
     dotnet run
