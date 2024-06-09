@@ -27,7 +27,7 @@ Para ver una demostración en video de cómo funciona esta pizarra distribuida, 
 
 ### Nota
 
-Asegúrate de cambiar la dirección IP en los clientes para que apunten a la IP del servidor. Puedes hacer esto modificando el archivo de configuración en `clientApp`.
+Asegúrate de cambiar la dirección IP en los clientes para que apunten a la IP del servidor en `clientApp`.
 
 ---
 
