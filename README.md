@@ -1,7 +1,5 @@
 # Pizarra Distribuida
 
-## Progress DEMO: Software Development
-
 Este proyecto demuestra una pizarra distribuida utilizando sockets en C#. Incluye una aplicación de servidor y una aplicación de cliente que pueden ejecutarse en diferentes dispositivos.
 
 ### Instrucciones
